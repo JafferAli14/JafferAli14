@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd%20Mir%20Jaffer%20Ali&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" wid``th="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd%20Mir%20Jaffer%20Ali&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/JafferAli14">
