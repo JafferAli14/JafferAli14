@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd%20Mir%20Jaffer%20Ali&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd%20Mir%20Jaffer%20Ali&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" wid``th="100%"/>
 
 <p align="center">
   <a href="https://github.com/JafferAli14">
@@ -59,20 +59,6 @@ I’m a **detail-oriented MERN Stack Developer** who enjoys turning ideas into f
     <td><img src="https://skillicons.dev/icons?i=azure,vercel,postman,git,github,vscode&perline=10" /></td>
   </tr>
 </table>
-
----
-
-### 🚀 Featured Projects
-
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your best repositories -->
-<p align="center">
-  <a href="https://github.com/JafferAli14/REPO_NAME_1">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JafferAli14&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JafferAli14/REPO_NAME_2">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JafferAli14&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
