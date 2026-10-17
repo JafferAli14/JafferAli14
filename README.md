@@ -1,16 +1,100 @@
-# 💫 About Me:
-I am a passionate and detail-oriented MERN Stack Developer dedicated to building robust, scalable, and user-centric web applications. With a strong foundation in modern JavaScript ecosystems, I bridge the gap between seamless user interfaces and efficient backend architecture.<br><br>My core focus lies in writing clean, maintainable code and solving complex technical problems to deliver impactful digital solutions.
+<!-- ===================== HEADER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd%20Mir%20Jaffer%20Ali&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+<p align="center">
+  <a href="https://github.com/JafferAli14">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js;Clean+code.+Real+solutions.;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://in.linkedin.com/in/mohd-mir-jaffer-ali-b31278305](https://www.linkedin.com/in/mohd-mir-jaffer-ali-b31278305)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdmirjafferali@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JafferAli14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JafferAli14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JafferAli14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohd-mir-jaffer-ali-b31278305"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohdmirjafferali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JafferAli14&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=JafferAli14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 👨‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" />
+
+I’m a **detail-oriented MERN Stack Developer** who enjoys turning ideas into fast, reliable, user-focused web applications. I like working across the whole stack: crafting smooth interfaces on the front end and designing efficient, scalable APIs on the back end.
+
+- 🔭 &nbsp;Building **full-stack apps** with MongoDB, Express, React & Node.js
+- 🧹 &nbsp;Obsessed with **clean, maintainable code**
+- 🧩 &nbsp;Love breaking down **complex problems** into simple solutions
+- 🌱 &nbsp;Exploring **TypeScript, .NET & cloud deployment** on Azure / Vercel
+- 🤝 &nbsp;Open to **collaborations, internships & freelance work**
+- 📫 &nbsp;Reach me at **mohdmirjafferali@gmail.com**
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,html,css&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vue,vite&perline=10" />
+      <br/><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,vercel,postman,git,github,vscode&perline=10" /></td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your best repositories -->
+<p align="center">
+  <a href="https://github.com/JafferAli14/REPO_NAME_1">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JafferAli14&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/JafferAli14/REPO_NAME_2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JafferAli14&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=JafferAli14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JafferAli14&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JafferAli14&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JafferAli14&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.”</i> — John Johnson
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
